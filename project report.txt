@@ -1,0 +1,15 @@
+Name : Aniket Mengane
+Email id: menganeaniket1555@gmail.com
+Task Title: Company Member Team Page
+Task Description: In this task creat a company member team page using html and css .in this page all team members ther name and position.
+Steps Taken : 1) First create Floder and open in vs Code .
+               2) Than create html and css file 
+               3) Write Html Code to create page 
+               4) Downlode persons iocns 
+               5)all icons incude in the html file 
+               6)write Css on this page 
+
+Challenges faced: Incude responsive  css on the all page .
+Learning : Create Responsive web page.
+
+                   
